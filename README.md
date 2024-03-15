@@ -1,5 +1,5 @@
 ### Koe, bem vindo ao meu mundo!
-<div align="center">
+<div align="left">
   <a href="https://github.com/DevThiagoRamos">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevThiagoRamos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
