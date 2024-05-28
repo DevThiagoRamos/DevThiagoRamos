@@ -1,6 +1,15 @@
 ### Hey there, Welcome to my World!
-# 💫 About Me:
-📚I'm a Computer Science student, with interest for Backend developer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java, Spring Boot to Rest API, Microservices and PostGreeSQL.<br> 🧑🏾‍💻 I'm currently working at Santander as Back-End Development Intern ♨️
+# 🌌 About Me:
+📚I'm a Computer Science student, with interest for Backend developer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java, Spring Boot to Rest API, Microservices and PostGreeSQL.<br> 🚀💻 I'm currently working at Santander as Back-End Development Intern ♨️
+# 👀 What am I studying now?:
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,aws,gherkin,selenium)](https://skillicons.dev)
+> Spring Boot <br>
+> Spring Framework <br>
+> Docker <br>
+> AWS <br>
+
+# Tools:
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,gitlab,github,git)](https://skillicons.dev)
 
 <div align="left">
   <a href="https://github.com/DevThiagoRamos">
