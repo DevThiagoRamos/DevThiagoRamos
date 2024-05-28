@@ -7,6 +7,7 @@
 > Spring Framework <br>
 > Docker <br>
 > AWS <br>
+> Angular <br>
 
 # Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,git,postgres)](https://skillicons.dev)
