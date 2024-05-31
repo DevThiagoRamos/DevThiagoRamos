@@ -11,9 +11,9 @@
 # 👀 What am I studying now?:
 [![My Skills](https://skillicons.dev/icons?i=spring,docker,aws,java,angular)](https://skillicons.dev)
 > Spring Boot <br>
-> Spring Framework <br>
 > Docker <br>
 > AWS <br>
+> Java <br>
 > Angular <br>
 
 # Tools:
