@@ -31,10 +31,7 @@
   <img align="center" alt="Thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ##
- 
-<div> 
+   
   
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevThiagoRamos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -42,5 +39,3 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- 
-</div>
