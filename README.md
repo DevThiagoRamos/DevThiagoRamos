@@ -1,6 +1,13 @@
 ### Hey there, Welcome to my World!
 # 🌌 About Me:
 📚I'm a Computer Science student, with interest for Backend developer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java, Spring Boot to Rest API, Microservices and PostGreeSQL.<br> 🚀💻 I'm currently working at Santander as Back-End Development Intern ♨️
+## 📞 Do you want to talk with me?
+<a href="https://www.youtube.com/channel/UCrL9KFROcuUk73d5RTiqptA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thi.ramoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/WGy2MDsY3z" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://twitter.com/thi_ramossx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-vieira-ramos-1240a1212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 # 👀 What am I studying now?:
 [![My Skills](https://skillicons.dev/icons?i=spring,docker,aws,java,angular)](https://skillicons.dev)
 > Spring Boot <br>
@@ -28,12 +35,6 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCrL9KFROcuUk73d5RTiqptA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/thi.ramoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/WGy2MDsY3z" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://twitter.com/thi_ramossx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-vieira-ramos-1240a1212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevThiagoRamos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
