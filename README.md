@@ -1,6 +1,6 @@
 ### Hey there, Welcome to my World!
 # 🌌 About Me:
-📚I'm a Computer Science student, with interest for Backend developer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java, Spring Boot to Rest API, Microservices and PostGreeSQL.<br> 🚀💻 I'm currently working at Santander as Back-End Development Intern ♨️
+📚I'm a Computer Science student, with interest for Backend developer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java, Spring Boot to Rest API, Microservices and PostGreeSQL.<br> 🚀💻 I'm currently working at Santander as Back-End Development ♨️
 ## 📞 Do you want to talk with me?
 <a href="https://www.youtube.com/channel/UCrL9KFROcuUk73d5RTiqptA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thi.ramoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
